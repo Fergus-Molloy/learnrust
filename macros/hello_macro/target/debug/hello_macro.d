@@ -1,0 +1,1 @@
+/home/fergus/Documents/learnrust/macros/hello_macro/target/debug/hello_macro: /home/fergus/Documents/learnrust/macros/hello_macro/hello_macro_derive/src/lib.rs /home/fergus/Documents/learnrust/macros/hello_macro/src/main.rs

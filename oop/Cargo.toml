@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "object",
+    "inheritance",
+    "oop",
+]

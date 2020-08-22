@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+BoundedBuffer	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^impl<T> BoundedBuffer<T>$/;"	c
+BoundedBuffer	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^pub struct BoundedBuffer<T>$/;"	s
+DebugIt	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^impl<T> fmt::Debug for DebugIt<T> {$/;"	c
+DebugIt	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^impl<T> fmt::Debug for DebugIt<T>$/;"	c
+DebugIt	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^pub struct DebugIt<T>(pub T);$/;"	s
+back	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    back: usize,$/;"	m	struct:BoundedBuffer
+circular	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn circular() {$/;"	f	module:tests
+debug_no_bound	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^        fn debug_no_bound<T>(x: T, _: &str) {$/;"	f	function:tests::it_works
+debug_no_bound	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^        fn debug_no_bound<T>(x: T, s: &str) {$/;"	f	function:tests::it_works
+debugit	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^macro_rules! debugit {$/;"	M
+empty	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn empty() {$/;"	f	module:tests
+fmt	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^    default fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	P	implementation:DebugIt
+fmt	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	P	implementation:DebugIt
+fmt	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	f
+front	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    front: usize,$/;"	m	struct:BoundedBuffer
+init_zero	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn init_zero() {$/;"	f	module:tests
+it_works	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^    fn it_works() {$/;"	f	module:tests
+list	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    list: Vec<Option<T>>,$/;"	m	struct:BoundedBuffer
+main	/home/fergus/Documents/learnrust/bounded_buffer/src/bin/main.rs	/^fn main() {$/;"	f
+new	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    pub fn new(size: usize) -> BoundedBuffer<T> {$/;"	f
+overwrite	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn overwrite() {$/;"	f	module:tests
+pop	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    pub fn pop(&mut self) -> Option<T> { \/\/todo write a wrapper function to return result inst/;"	f
+pop_none	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn pop_none() {$/;"	f	module:tests
+pop_some	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn pop_some() {$/;"	f	module:tests
+push	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    pub fn push(&mut self, item: T) -> Result<T, &'static str> {$/;"	f
+push_err	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn push_err() {$/;"	f	module:tests
+push_ok	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    fn push_ok() {$/;"	f	module:tests
+size	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^    size: usize,$/;"	m	struct:BoundedBuffer
+tests	/home/fergus/.cargo/registry/src/github.com-1ecc6299db9ec823/debugit-0.1.2/src/lib.rs	/^mod tests {$/;"	n
+tests	/home/fergus/Documents/learnrust/bounded_buffer/src/lib.rs	/^mod tests {$/;"	n

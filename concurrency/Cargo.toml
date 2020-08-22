@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "threads",
+    "messages",
+    "mutexes",
+]
